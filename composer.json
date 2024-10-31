@@ -1,7 +1,7 @@
 {
-    "name": "jedocodes-components/bootstrap",
+    "name": "jedocodes-components/foundation",
     "type": "contao-component",
-    "description": "Bootstrap V5 integration for Contao Open Source CMS",
+    "description": "Foundation for Sites V6 integration for Contao Open Source CMS",
     "license": "LGPL-3.0-or-later",
     "authors": [
          {
@@ -15,14 +15,14 @@
         "contao-components/installer": "^1.0.9"
     },
     "replace": {
-        "jedocodes/bootstrap":"*"
+        "jedocodes/foundation":"*"
     },
     "extra": {
         "contao-component-dir": "assets"
     },
     "support" : {
-        "docs": "https://docs.jedo.codes/contao-components/bootstrap",
-        "issues" : "https://github.com/jedocodes-components/bootstrap/issues",
-        "source" : "https://github.com/jedocodes-components/bootstrap"
+        "docs": "https://docs.jedo.codes/contao-components/foundation",
+        "issues" : "https://github.com/jedocodes-components/foundation/issues",
+        "source" : "https://github.com/jedocodes-components/foundation"
     }
 }
