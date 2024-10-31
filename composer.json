@@ -1,0 +1,28 @@
+{
+    "name": "jedocodes-components/bootstrap",
+    "type": "contao-component",
+    "description": "Bootstrap V5 integration for Contao Open Source CMS",
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+         {
+          "name": "jedo.Codes",
+          "homepage": "https://jedo.codes",
+          "email" : "dev@jedo.codes",
+          "role" : "Developer"
+         }
+     ],
+    "require": {
+        "contao-components/installer": "^1.0.9"
+    },
+    "replace": {
+        "jedocodes/bootstrap":"*"
+    },
+    "extra": {
+        "contao-component-dir": "assets"
+    },
+    "support" : {
+        "docs": "https://docs.jedo.codes/contao-components/bootstrap",
+        "issues" : "https://github.com/jedocodes-components/bootstrap/issues",
+        "source" : "https://github.com/jedocodes-components/bootstrap"
+    }
+}
